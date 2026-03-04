@@ -56,7 +56,7 @@ When delegating work related to an existing task or project:
 
 - IF: The user requests a fork terminal with a summary.
 - THEN: 
-  - Read, and REPLACE the `.claude/skills/fork-terminal/references/fork_summary_user_prompt.md` with the history of the conversation between you and the user so far. 
+  - Read, and REPLACE the `.claude/skills/delegate/references/fork_summary_user_prompt.md` with the history of the conversation between you and the user so far. 
   - Include the next users request in the `Next User Request` section.
   - This will be what you pass into the PROMPT parameter of the agentic coding tool.
   - IMPORTANT: To be clear, don't update the file directly, just read it, fill it out IN YOUR MEMORY and use it to craft a new prompt in the structure provided for the new fork agent.
