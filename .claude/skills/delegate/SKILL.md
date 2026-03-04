@@ -1,6 +1,9 @@
 ---
 name: delegate-task
-description: "Delegate a task by forking a terminal session to a new terminal window. Use this when the user requests 'delegate' or 'create a new terminal' or 'new terminal: <command>' or 'fork session: <command>'".
+description: >
+  Delegate a task by forking a terminal session to a new terminal window.
+  Use this when the user requests "delegate" or "create a new terminal" or
+  "new terminal: <command>" or "fork session: <command>".
 ---
 
 # Purpose
