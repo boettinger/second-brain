@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772735116759-rw62uyck9",
+  "title": "Initialize Second Brain vault\n\n---\n\nI notice `/...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772735116760,
+  "updatedAt": 1772735125785,
+  "lastResponseAt": 1772735125785,
+  "sessionId": "d51ad55c-6c1f-46e2-adcd-f52326f814d3",
+  "sdkSessionId": "d51ad55c-6c1f-46e2-adcd-f52326f814d3",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6,
+    "cacheCreationInputTokens": 635,
+    "cacheReadInputTokens": 37655,
+    "contextWindow": 200000,
+    "contextTokens": 38296,
+    "percentage": 19
+  }
+}
